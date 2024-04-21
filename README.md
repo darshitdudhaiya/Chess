@@ -10,9 +10,9 @@ The Chess Game project is created by Me, a passionate developer with a love for 
 
 This repository contains the complete source code for the Chess Game project, including HTML templates, CSS stylesheets (leveraging Tailwind CSS for rapid development), and JavaScript scripts for game logic and interactivity.
 
-### Repository URL
+### URL
 
-- [Chess Game Repository](https://darshitdudhaiya.github.io/Chess)
+- [Chess Game](https://darshitdudhaiya.github.io/Chess)
 
 ### Author
 
