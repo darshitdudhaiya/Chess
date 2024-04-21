@@ -43,12 +43,3 @@ We welcome contributions from the community to enhance the Chess Game project an
 4. Push to the branch (`git push origin feature/YourFeature`).
 5. Create a new Pull Request.
 
-## Contact Us
-
-For inquiries, feedback, or support, please contact us at [info@chessgame.com](mailto:info@chessgame.com).
-
-## License
-
-[License information here]
-
-Thank you for choosing the Chess Game project for your digital chess-playing experience!
