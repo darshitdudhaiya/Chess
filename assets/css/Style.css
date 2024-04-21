@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@500&family=Roboto+Mono&display=swap');
+
+.title,.players,#player1-text,#player2-text{
+    font-family: 'Nunito', sans-serif; 
+}
+
+#toast-warning{
+    visibility: hidden;
+}
+
+#toast-interactive{
+    visibility: hidden;
+}
